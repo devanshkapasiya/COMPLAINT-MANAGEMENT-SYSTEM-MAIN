@@ -31,7 +31,7 @@ JWT (JSON Web Token)
 
 🔐 Authentication Flow User registers / logs in JWT token is generated Protected routes are accessed using token
 
-🛠️ Installation & Setup 1️⃣ Clone the repository git clone https://github.com/PranjalRathi07/Complaint-Management-System.git cd Complaint-Management-System 2️⃣ Install dependencies Backend cd server npm install Frontend cd client npm install 3️⃣ Environment Variables
+🛠️ Installation & Setup 1️⃣ Clone the repository git clone https://github.com/devanshkapasiya/Complaint-Management-System.git cd Complaint-Management-System 2️⃣ Install dependencies Backend cd server npm install Frontend cd client npm install 3️⃣ Environment Variables
 
 Create a .env file in server/:
 
